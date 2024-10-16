@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/40f44804-cfd2-49ef-a000-73926aec67a5)# EX: 06 - Linux-IPC-Shared-memory
+# EX: 06 - Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
 # AIM:
