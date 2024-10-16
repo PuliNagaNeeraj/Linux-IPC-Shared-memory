@@ -1,4 +1,4 @@
-# EX: 06 - Linux-IPC-Shared-memory
+![image](https://github.com/user-attachments/assets/40f44804-cfd2-49ef-a000-73926aec67a5)# EX: 06 - Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
 # AIM:
@@ -125,7 +125,8 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ![Screenshot 2024-04-29 101323](https://github.com/ANU23000217/Linux-IPC-Shared-memory/assets/139117108/086b13f2-7b78-412d-89ff-5a3098320e4b)
 
 
-![Screenshot 2024-04-29 101334](https://github.com/ANU23000217/Linux-IPC-Shared-memory/assets/139117108/69c1f297-b189-4689-8c7f-1a46e4331d5f)
+![image](https://github.com/user-attachments/assets/5f6a2410-eec8-4e65-9900-f8531a764366)
+
 
 # RESULT:
 The program is executed successfully.
